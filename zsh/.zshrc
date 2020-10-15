@@ -17,6 +17,10 @@ export PATH=$PATH:/usr/local/bin
 
 export PATH=$PATH/.local/bin:$PATH
 
+# editor
+export VISUAL=nvim
+export EDITOR=$VISUAL
+
 # ranger 
 export RANGER_LOAD_DEFAULT_RC=FALSE
 # Set name of the theme to load --- if set to "random", it will
