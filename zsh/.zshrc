@@ -11,6 +11,7 @@ fi
 # Path to your oh-my-zsh installation.
 export ZSH="/Users/zhihuipan/.oh-my-zsh"
 
+# psql
 export PATH=$PATH:/Applications/Postgres.app/Contents/Versions/12/bin
 
 export PATH=$PATH:/usr/local/bin
