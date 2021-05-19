@@ -1,7 +1,7 @@
 # open terminal
 alt - return : open -n /Applications/Alacritty.app
-alt + shift - return : open -a Firefox
-alt + ctrl - return : open -a Drafts
+alt + shift - return : open -na Firefox
+alt + ctrl - return : open -na Drafts
 
 # focus window
 alt - h : yabai -m window --focus west
